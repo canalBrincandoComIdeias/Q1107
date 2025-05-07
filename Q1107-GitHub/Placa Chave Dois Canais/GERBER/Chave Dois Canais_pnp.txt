@@ -1,0 +1,30 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Chave Dois Canais
+*Date=18:34:33
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;21.2705;-4.79846;90;Bottom;In1 In2 GND
+2;;;14.9974;-33.1852;180;Bottom;TXT2
+3;;;21.5329;-30.2557;180;Bottom;TXT3
+4;;;21.31;-2.08925;0;Bottom;TXT1
+5;;;14.9007;-24.4507;0;Bottom;IMG1
+6;220;THT;23.8105;-12.4185;-90;Bottom;R2
+7;;THT;4.76052;-30.1985;90;Bottom;VIn
+8;;;24.9186;-33.1899;180;Bottom;TXT2
+9;;THT;25.0805;-30.1985;-90;Bottom;J2
+10;220;THT;16.1905;-12.4185;-90;Bottom;R1
+11;;THT;14.9205;-30.1985;-90;Bottom;J3
+12;;;9.65017;-7.87821;-90;Bottom;Power plug1
+13;;;11.4031;-30.2952;180;Bottom;TXT3
+14;;TO92 [THT];6.22102;-20.1274;180;Bottom;Q1
+15;;TO92 [THT];24.001;-20.1274;180;Bottom;Q2

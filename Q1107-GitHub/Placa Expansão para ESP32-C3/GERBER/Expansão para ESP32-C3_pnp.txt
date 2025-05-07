@@ -1,0 +1,31 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Expansão para ESP32-C3
+*Date=18:54:50
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;19.5354;-12.8643;90;Bottom;J3
+2;47µF;100 mil [THT, electrolytic];5.56542;-33.1843;90;Bottom;C2
+3;;;22.2977;-20.5478;180;Bottom;Power plug1
+4;;;28.4256;-25.5641;0;Bottom;Via2
+5;;;8.10557;-25.5641;0;Bottom;Via1
+6;;THT;5.56542;-7.78425;0;Bottom;VIn
+7;;THT;19.5354;-3.97425;90;Bottom;GND1
+8;;THT;19.5354;-9.05425;90;Bottom;J1
+9;;;3.02577;-37.9273;0;Bottom;IMG1
+10;;THT;19.5354;-34.4543;90;Bottom;VCC2
+11;;THT;19.5354;-28.1043;90;Bottom;J4
+12;;THT;19.5354;-36.9943;90;Bottom;GND2
+13;;THT;19.5354;-6.51425;90;Bottom;VCC1
+14;;THT;19.5354;-31.9143;90;Bottom;J2
+15;100nF;100 mil [THT, multilayer];10.6454;-19.2095;-90;Bottom;C1
+16;5V;TO220 [THT];4.04142;-20.4843;-90;Bottom;U2
